@@ -7,3 +7,7 @@ P4_Analyse_de_Vente
 * Représentations graphiques : Reg Lin., Nuage de points, BoxPlot, Contingence
 * Analyse de concentration : Courbe de Lorenz, indice de Gini
 * Application de coefficient : Pearson, Spearman, Eta Squarred, Chi_2
+
+
+- Lancez P4_01_scriptdonnees
+- Lancez P4_02_scriptanalyse

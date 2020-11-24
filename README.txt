@@ -9,5 +9,6 @@ P4_Analyse_de_Vente
 * Application de coefficient : Pearson, Spearman, Eta Squarred, Chi_2
 
 
+- Tous les fichiers.csv doivent etre au meme endroit que les scripts.ipynb
 - Lancez P4_01_scriptdonnees
 - Lancez P4_02_scriptanalyse
